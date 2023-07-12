@@ -2,7 +2,7 @@
 
 # Ignite
 
-> 🏗️ Infrastructure as Code
+> 🏗️ IaC Terraform for testing implementations
 
 ![Terraform](https://img.shields.io/badge/v1.5.X-ECEFF4?style=for-the-badge&logo=Terraform&logoColor=B48EAD)
 
